@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDGAIChat", "DDGAIChat.csproj", "{7EDCA350-7FF8-41C2-86C5-41C7104FFD8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EDCA350-7FF8-41C2-86C5-41C7104FFD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDCA350-7FF8-41C2-86C5-41C7104FFD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDCA350-7FF8-41C2-86C5-41C7104FFD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDCA350-7FF8-41C2-86C5-41C7104FFD8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F5F9FB9-82D3-48F5-838C-5CF8BAA365AE}
+	EndGlobalSection
+EndGlobal
