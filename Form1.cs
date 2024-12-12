@@ -16,7 +16,7 @@ namespace Form1 // Changed namespace to Form1
             // Ensure the WebView2 environment is created
             await webView21.EnsureCoreWebView2Async(null);
             // Navigate to a specific URL
-            webView21.Source = new Uri("https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1");
+            webView21.Source = new Uri("https://duck.ai");
         }
     }
 }
